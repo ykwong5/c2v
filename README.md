@@ -1,2 +1,2 @@
 # c2v
-Converting C to synthesizable VHDL/Verilog 
+A simple HLS compiler under development for converting C to synthesizable VHDL/Verilog 
