@@ -14,4 +14,5 @@ A complicated logic thus could be designed with C, in a much simpler way. This a
 
 ## Current Status
 Defining the specification for 1 to 1 mapping of C99 to VHDL and Verilog
+
 The specification is available on the Wiki page. Please feel free to discuss with me if you have any ideas after reviewing the specification.
